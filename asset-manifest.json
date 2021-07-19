@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46e08fae.chunk.css",
+    "main.js": "/static/js/main.97c26b0b.chunk.js",
+    "main.js.map": "/static/js/main.97c26b0b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.888f78f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.888f78f9.js.map",
+    "static/js/2.5ae58871.chunk.js": "/static/js/2.5ae58871.chunk.js",
+    "static/js/2.5ae58871.chunk.js.map": "/static/js/2.5ae58871.chunk.js.map",
+    "static/js/3.0591e6c4.chunk.js": "/static/js/3.0591e6c4.chunk.js",
+    "static/js/3.0591e6c4.chunk.js.map": "/static/js/3.0591e6c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.46e08fae.chunk.css.map": "/static/css/main.46e08fae.chunk.css.map",
+    "static/js/2.5ae58871.chunk.js.LICENSE.txt": "/static/js/2.5ae58871.chunk.js.LICENSE.txt",
+    "static/media/café.08714093.jpg": "/static/media/café.08714093.jpg",
+    "static/media/capuccino.de34e9bc.jpeg": "/static/media/capuccino.de34e9bc.jpeg",
+    "static/media/centralPerkLogo.b21017dd.png": "/static/media/centralPerkLogo.b21017dd.png",
+    "static/media/milkshake.e6f95a4c.jpeg": "/static/media/milkshake.e6f95a4c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.888f78f9.js",
+    "static/js/2.5ae58871.chunk.js",
+    "static/css/main.46e08fae.chunk.css",
+    "static/js/main.97c26b0b.chunk.js"
+  ]
+}
